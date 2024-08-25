@@ -1,0 +1,20 @@
+{
+    "setup function": {
+        "prefix": "setup",
+        "body": [
+            "void setup () {",
+            "\t$1",
+            "}"
+        ],
+        "description": ""
+    },
+    "loop function": {
+        "prefix": "loop",
+        "body": [
+            "void loop () {",
+            "\t$1",
+            "}"
+        ],
+        "description": ""
+    }
+}
